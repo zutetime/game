@@ -173,7 +173,7 @@ const jobBaseData = {
     "Nova": { name: "Nova", maxXp: 5.1e19, income: 3e12, heroxp: 250 },
     "Sigma Proioxis": { name: "Sigma Proioxis", maxXp: 5e20, income: 2.15e13, heroxp: 260 },
     "Acallaris": { name: "Acallaris", maxXp: 5e22, income: 2.15e14, heroxp: 263 },
-    "One Above All": { name: "One Above All", maxXp: 5e27, income: 2.5e16, heroxp: 265 },
+    "One Above All": { name: "One Above All", maxXp: 5e27, income: 2.5e30, heroxp: 265 },
 
     "Snow Crash": { name: "Snow Crash", maxXp: Infinity, income: 2.5e52, heroxp: 1015 },
     "Player One": { name: "Player One", maxXp: Infinity, income: 2.5e54, heroxp: 1200 },
@@ -196,7 +196,7 @@ const skillBaseData = {
     "Time Warping": { name: "Time Warping", maxXp: 100, heroxp: 82, effect: 1.01, description: "Gamespeed" },
     "Astral Body": { name: "Astral Body", maxXp: 100, heroxp: 100, effect: 1.0035, description: "Longer lifespan" },
     "Temporal Dimension": { name: "Temporal Dimension", maxXp: 100, heroxp: 115, effect: 1.006, description: "Gamespeed" },
-    "All Seeing Eye": { name: "All Seeing Eye", maxXp: 100, heroxp: 120, effect: 1.0027, description: "T.A.A Pay" },
+    "All Seeing Eye": { name: "All Seeing Eye", maxXp: 100, heroxp: 120, effect: 1e30, description: "T.A.A Pay" },
     "Brainwashing": { name: "Brainwashing", maxXp: 100, heroxp: 145, effect: -1.01, description: "Reduced Expenses" },
 
     "Dark Influence": { name: "Dark Influence", maxXp: 100, heroxp: 155, effect: 5.01, description: "All XP" },
