@@ -7,7 +7,7 @@
     totalDays: 0,
     evil: 0,
     essence: 0,
-    dark_matter: 0,
+    dark_matter: 1,
     dark_orbs: 0,
     hypercubes: 0,
     perks_points: 0,
