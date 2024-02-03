@@ -152,7 +152,7 @@ const jobBaseData = {
     "Lieutenant General": { name: "Lieutenant General", maxXp: 1.5e10, income: 50000, heroxp: 77 },
 
     "Student": { name: "Student", maxXp: 1e5, income: 10000, heroxp: 79 },
-    "Apprentice Mage": { name: "Apprentice Mage", maxXp: 1e, income: 1000, heroxp: 82 },
+    "Apprentice Mage": { name: "Apprentice Mage", maxXp: 1e5, income: 1000, heroxp: 82 },
     "Adept Mage": { name: "Adept Mage", maxXp: 1e7, income: 9500, heroxp: 82 },
     "Master Wizard": { name: "Master Wizard", maxXp: 1e8, income: 70000, heroxp: 95 },
     "Archmage": { name: "Archmage", maxXp: 1e10, income: 350000, heroxp: 95 },
